@@ -7,9 +7,24 @@
 
 ---
 
+## 🔰 Ideology (理念)
+
+### **Public Interestism (公益主義)**
+**― From Moral to Protocol ―**
+
+SBCM Alliance が掲げるのは、従来の資本主義とも社会主義とも異なる、**「実装された公益主義」**です。
+
+これまでの「公益」は、権力者や経営者の**「道徳（モラル）」**に依存していました。しかし、モラルは容易にハックされ、腐敗します。
+私たちは、公益（Public Benefit）を精神論から切り離し、**「システム構造によって自動的に強制される物理法則」**へと再定義します。
+
+*   **Old Way:** 「良い人」が政治を行うことで、世の中を良くする。（脆弱性あり）
+*   **SBCM Way:** **「悪い人」がどう動いても、数学的に公益しか最大化されない構造**を作る。（堅牢性）
+
+---
+
 ## 📜 Mission (使命)
 
-**SBCM Alliance** は、行政経営と地域経済の「歪み」を数学的に是正するための GovTech コンソーシアムです。
+**SBCM Alliance** は、行政経営と地域経済の「歪み」を是正するための GovTech コンソーシアムです。
 
 私たちは、**標準ブロック比較法 (SBCM)** という独自のメソ経済理論に基づき、
 「政治的なポエム」や「不透明な中抜き構造」を、**「監査可能なコード」**と**「物理法則（数式）」**に置き換えることを目的としています。
@@ -69,5 +84,5 @@ $$ D_{index} = \frac{I_{budget}}{I_{coverage}} $$
 
 ---
 <p align="center">
-  <small>© 2025 SBCM Alliance. Powered by Logic & Passion.</small>
+  <small>© 2025 SBCM Alliance. Powered by <b>Public Interestism</b>.</small>
 </p>
