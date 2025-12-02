@@ -97,8 +97,8 @@ graph TD
 | Project | Type | Description | Status |
 | :--- | :---: | :--- | :---: |
 | **[The Heart](https://github.com/SBCM-Alliance/the-heart)** | 🫀 Core | **Global Liquidity Protocol.**<br>An algorithmic pump that detects state distortion and injects liquidity (Work) into dying blocks. | **[Live](https://sbcm-alliance.github.io/the-heart/)** |
-| **[G-Cart](https://github.com/SBCM-Alliance/g-cart)** | 🏗️ System | **Virtual General Contractor.**<br>Amazon-ifying public procurement to eliminate the "Straw Effect" and force local retention. | **Demo** |
-| **[Yorbee](https://github.com/SBCM-Alliance/yorbee)** | ⚔️ Platform | **Job-Deconstruction Skills Guild.**<br>An RPG-style recruitment app that physically rejects exploitative contracts. | **Demo** |
+| **[G-Cart](https://github.com/SBCM-Alliance/g-cart)** | 🏗️ System | **Virtual General Contractor.**<br>Amazon-ifying public procurement to eliminate the "Straw Effect" and force local retention. | **[Demo](https://virtual-general-contractor-55cvcjcffwz9zsns3mge3j.streamlit.app/)** |
+| **[Yorbee](https://github.com/SBCM-Alliance/yorbee)** | ⚔️ Platform | **Job-Deconstruction Skills Guild.**<br>An RPG-style recruitment app that physically rejects exploitative contracts. | **[Demo](https://yorbee-w5sboubhw6ectnxm7qjxn9.streamlit.app/)** |
 
 ---
 
