@@ -1,10 +1,13 @@
 # SBCM Alliance
 **Algorithmizing Social Justice.**
 
-[![Zenodo](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.17762960-blue)](https://doi.org/10.5281/zenodo.17762960)
+[![Zenodo Part1](https://img.shields.io/badge/DOI_Part1-10.5281%2Fzenodo.17762960-blue)](https://doi.org/10.5281/zenodo.17762960)
+[![Zenodo Part2](https://img.shields.io/badge/DOI_Part2-10.5281%2Fzenodo.17777745-blue)](https://doi.org/10.5281/zenodo.17777745)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Status](https://img.shields.io/badge/Status-Active_Development-success)]()
+[![Status](https://img.shields.io/badge/Status-Alive-success)]()
 [![日本語版](https://img.shields.io/badge/日本語版-こちら-blue)](README_JP.md)
+
+> **"In the beginning was the Logic. And the Logic became the Heart."**
 
 ---
 
@@ -39,46 +42,70 @@ The **SBCM Alliance** is a GovTech consortium dedicated to correcting "distortio
 Based on the proprietary Meso-Economic theory **"Standard Block Comparison Method (SBCM),"** we aim to replace "political rhetoric" and "opaque intermediary structures" with **"Auditable Code"** and **"Physical Laws (Math)."**
 
 > **"Quantify the Unquantifiable."**
-> (Measure the "quality of administration" that was thought to be unmeasurable.)
+> (Measure the "quality of administration" and "future ruin" that were thought to be unmeasurable.)
 
 ---
 
-## 📐 Core Theory
+## 📚 The SBCM Trilogy (Core Theory)
 
-All our activities are based on the following fundamental equations:
+SBCM is designed as a "National OS" composed of three theoretical layers: **Space, Flow, and Time.**
 
-### 1. The Standard Block ($B_{std}$)
-Defining the smallest unit of Japan's governance structure as a "physical constant."
+### **Part 1: The Static Audit (Space)**
+**[Proposal for SBCM in Administrative Evaluation](https://doi.org/10.5281/zenodo.17762960)**
+*   **Core Logic:** `Budget Distortion Index` ($D_{index}$)
+*   **Function:** Detects "budgetary distortion" by normalizing administrative data with population scale. It automatically flags "Quadrant 4" projects (High Cost / Low Reach).
 
-$$ B_{std} = \frac{P_{total} \text{ (124M)}}{N_{muni} \text{ (1,718)}} \approx \mathbf{72,176} \text{ persons} $$
+### **Part 2: The Economic Flow (Circulation)**
+**[SBCM Economics: Meso-Economic Framework](https://doi.org/10.5281/zenodo.17766604)**
+*   **Core Logic:** `Block Retention Rate` ($R_{block}$) / `SBCM Fiscal Multiplier` ($M_{sbcm}$)
+*   **Function:** Maximizes "Wealth Retention" instead of GDP. It mathematically proves that public works with high leakage (Straw Effect) yield zero economic benefit.
 
-### 2. Budget Distortion Index ($D_{index}$)
-An indicator to detect "distortion" in budget allocation. Projects exceeding **10** suggest structural corruption (Distortion).
+### **Part 3: The Dynamic Thermodynamics (Time)**
+**[Dynamic Meso-Economics and the Thermodynamics of Governance](https://doi.org/10.5281/zenodo.17777745)**
+*   **Core Logic:** `Cumulative Distortion Integral` ($\mathcal{D}_{total}$)
+*   **Function:** A "Calculus of Ruin." It proves that in a depopulating society ($P(t) \searrow$), fixing infrastructure costs ($C(t) \nearrow$) causes the burden to diverge to infinity ($\infty$).
 
-$$ D_{index} = \frac{I_{budget}}{I_{coverage}} $$
-
-### 3. Block Retention Rate ($R_{block}$)
-A health check metric for regional economies. We maximize **"Retention"** rather than "Growth (GDP)."
+$$ \lim_{t \to \infty} \int_{0}^{t} \frac{C(\tau)}{P(\tau)} \, d\tau = \infty $$
 
 ---
 
-## 🏗️ Ecosystem
+## 🏗️ The Ecosystem (Implementation)
 
-We do not just propose theories; we develop and publish applications to implement them socially.
+We do not just propose theories; we develop and publish applications to implement them socially. These components form a closed-loop economic system.
+
+```mermaid
+graph TD
+    %% Definitions
+    Brain[<b>SBCM Trilogy</b><br>(Brain: Audit & Logic)]
+    Bone[<b>G-Cart</b><br>(Bone: Construction & Structure)]
+    Blood[<b>Yorbee</b><br>(Blood: Talent & Skills)]
+    
+    %% The Heart
+    Heart((<b>The Heart</b><br>Global Liquidity Protocol<br>Circulation Pump))
+    
+    %% Connections
+    Brain -->|Control Signal ($D_{index}$)| Heart
+    Bone -->|Surplus Wealth ($Saved$)| Heart
+    Blood -->|Liquidity ($Labor$)| Heart
+    
+    %% Output
+    Heart ==>|<b>Life Support (Vitality)</b>| Body[<b>Standard Blocks</b><br>(Japan / World)]
+    
+    style Heart fill:#ff4b4b,stroke:#333,stroke-width:4px,color:white
+```
 
 | Project | Type | Description | Status |
 | :--- | :---: | :--- | :---: |
-| **[SBCM Theory](https://github.com/SBCM-Alliance/core-theory)** | 📄 Paper | Archive of fundamental theories and economic extensions. | **Published** |
-| **[G-Cart](https://github.com/SBCM-Alliance/g-cart)** | 🏗️ System | **"Virtual General Contractor" System.**<br>Amazon-ifying public procurement to eliminate intermediaries. | **Demo** |
+| **[The Heart](https://sbcm-alliance.github.io/)** | 🫀 Core | **Global Liquidity Protocol.**<br>An algorithmic pump that detects state distortion and injects liquidity (Work) into dying blocks. | **Live** |
+| **[G-Cart](https://github.com/SBCM-Alliance/g-cart)** | 🏗️ System | **Virtual General Contractor.**<br>Amazon-ifying public procurement to eliminate the "Straw Effect" and force local retention. | **Demo** |
 | **[Yorbee](https://github.com/SBCM-Alliance/yorbee)** | ⚔️ Platform | **Job-Deconstruction Skills Guild.**<br>An RPG-style recruitment app that physically rejects exploitative contracts. | **Demo** |
-| **[Yorbee Portal](https://sbcm-alliance.github.io/yorbee-official/)** | 🌐 Web | Official Portal of Yorbee (Public Benefit Corporation). | **Live** |
 
 ---
 
 ## 🗺️ Roadmap
 
-- [x] **Phase 1: Definition** - Establishment of basic theory ($B_{std}, D_{index}$) and publication of papers (Zenodo).
-- [x] **Phase 2: Prototyping** - MVP development and Proof of Concept for G-Cart & Yorbee.
+- [x] **Phase 1: Definition** - Establishment of the SBCM Trilogy (Audit, Economics, Dynamics) and DOI acquisition.
+- [x] **Phase 2: Prototyping** - MVP development of G-Cart, Yorbee, and The Heart simulation.
 - [ ] **Phase 3: Legislation** - Formulation of the "Algorithmic Procurement Ordinance" (Model Ordinance).
 - [ ] **Phase 4: Social Implementation** - Demonstration experiments in National Strategic Special Zones.
 
@@ -102,7 +129,9 @@ Media inquiries, technical questions, and consultation requests are all accepted
 
 - **[New Issue](https://github.com/SBCM-Alliance/core-theory/issues/new)** : Submit your inquiries here. (Japanese/English accepted)
 - **[Discussions](https://github.com/SBCM-Alliance/core-theory/discussions)** : For brainstorming and general conversation.
+
 ---
 <p align="center">
   <small>© 2025 SBCM Alliance. Powered by <b>Public Interestism</b>.</small>
 </p>
+```
