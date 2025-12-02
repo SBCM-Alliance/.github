@@ -76,20 +76,20 @@ We do not just propose theories; we develop and publish applications to implemen
 ```mermaid
 graph TD
     %% Definitions
-    Brain[<b>SBCM Trilogy</b><br>(Brain: Audit & Logic)]
-    Bone[<b>G-Cart</b><br>(Bone: Construction & Structure)]
-    Blood[<b>Yorbee</b><br>(Blood: Talent & Skills)]
+    Brain["<b>SBCM Trilogy</b><br>(Brain: Audit & Logic)"]
+    Bone["<b>G-Cart</b><br>(Bone: Construction & Structure)"]
+    Blood["<b>Yorbee</b><br>(Blood: Talent & Skills)"]
     
     %% The Heart
-    Heart((<b>The Heart</b><br>Global Liquidity Protocol<br>Circulation Pump))
+    Heart(("<b>The Heart</b><br>Global Liquidity Protocol<br>Circulation Pump"))
     
     %% Connections
-    Brain -->|Control Signal ($D_{index}$)| Heart
-    Bone -->|Surplus Wealth ($Saved$)| Heart
-    Blood -->|Liquidity ($Labor$)| Heart
+    Brain -->|"Control Signal (D_index)"| Heart
+    Bone -->|"Surplus Wealth (Saved)"| Heart
+    Blood -->|"Liquidity (Labor)"| Heart
     
     %% Output
-    Heart ==>|<b>Life Support (Vitality)</b>| Body[<b>Standard Blocks</b><br>(Japan / World)]
+    Heart ==>|"<b>Life Support (Vitality)</b>"| Body["<b>Standard Blocks</b><br>(Japan / World)"]
     
     style Heart fill:#ff4b4b,stroke:#333,stroke-width:4px,color:white
 ```
