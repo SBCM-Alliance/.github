@@ -91,6 +91,17 @@ We are looking for hackers, researchers, and courageous public servants to pione
 *   **For Developers:** Pull Requests are welcome.
 *   **For Government:** If you are a municipality considering implementation, please contact us via Issue.
 
+## 🗣️ Discussion & Contact
+
+The SBCM Alliance rejects "backroom consensus-building."
+As a principle of **Open Governance**, all discussions must be conducted in the public domain.
+
+Media inquiries, technical questions, and consultation requests are all accepted via **GitHub Issues**.
+
+> **We do not use email.** To ensure transparency and "Public Interestism," all communications must be open and auditable.
+
+- **[New Issue](https://github.com/SBCM-Alliance/core-theory/issues/new)** : Submit your inquiries here. (Japanese/English accepted)
+- **[Discussions](https://github.com/SBCM-Alliance/core-theory/discussions)** : For brainstorming and general conversation.
 ---
 <p align="center">
   <small>© 2025 SBCM Alliance. Powered by <b>Public Interestism</b>.</small>
