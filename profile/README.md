@@ -4,7 +4,7 @@
 [![Zenodo](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.17762960-blue)](https://doi.org/10.5281/zenodo.17762960)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Status](https://img.shields.io/badge/Status-Active_Development-success)]()
-[![日本語版](https://img.shields.io/badge/日本語版-こちら-blue)](https://example.com/japanese)
+[![日本語版](https://img.shields.io/badge/日本語版-こちら-blue)](README_JP.md)
 
 ---
 
