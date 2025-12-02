@@ -91,6 +91,15 @@ $$ D_{index} = \frac{I_{budget}}{I_{coverage}} $$
 *   **For Developers:** リポジトリへのPull Requestは大歓迎です。
 *   **For Government:** 導入を検討される自治体担当者様は、Issueにてご連絡ください。
 
+## 🗣️ Discussion & Contact
+
+SBCM Alliance は「密室での合意形成」を廃し、すべての議論を「オープンな場」で行うことを原則とします。
+取材依頼、技術的な質問、導入の相談は、すべて **GitHub Issues** にて受け付けています。
+
+> **We do not use email.** To ensure transparency and public interest, all communications must be open.
+
+- **[New Issue](https://github.com/SBCM-Alliance/core-theory/issues/new)** : ご用件はこちらへ（日本語/English OK）
+- **[Discussions](https://github.com/SBCM-Alliance/core-theory/discussions)** : 雑談やアイデア出しはこちらへ
 ---
 <p align="center">
   <small>© 2025 SBCM Alliance. Powered by <b>Public Interestism</b>.</small>
