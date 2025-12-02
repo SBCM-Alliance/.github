@@ -97,9 +97,9 @@ graph TD
 
 | Project | Type | Description | Status |
 | :--- | :---: | :--- | :---: |
-| **[The Heart](https://sbcm-alliance.github.io/)** | 🫀 Core | **Global Liquidity Protocol.**<br>富の偏在を調整し、瀕死のブロックへ「仕事」として輸血する自律分散ポンプ。 | **Live** |
-| **[G-Cart](https://github.com/SBCM-Alliance/g-cart)** | 🏗️ System | **Virtual General Contractor.**<br>公共調達のAmazon。中抜き（ストロー効果）を排除し、地域内循環を強制する。 | **Demo** |
-| **[Yorbee](https://github.com/SBCM-Alliance/yorbee)** | ⚔️ Platform | **Gamified Skill Guild.**<br>職務をスキルに分解し、パーティを組んでクエストを解決する分散型労働市場。 | **Demo** |
+| **[The Heart](https://github.com/SBCM-Alliance/the-heart)** | 🫀 Core | **Global Liquidity Protocol.**<br>富の偏在を調整し、瀕死のブロックへ「仕事」として輸血する自律分散ポンプ。 | **[Live](https://sbcm-alliance.github.io/the-heart/)**|
+| **[G-Cart](https://github.com/SBCM-Alliance/g-cart)** | 🏗️ System | **Virtual General Contractor.**<br>公共調達のAmazon。中抜き（ストロー効果）を排除し、地域内循環を強制する。 |  **[Demo](https://virtual-general-contractor-55cvcjcffwz9zsns3mge3j.streamlit.app/)** |
+| **[Yorbee](https://github.com/SBCM-Alliance/yorbee)** | ⚔️ Platform | **Gamified Skill Guild.**<br>職務をスキルに分解し、パーティを組んでクエストを解決する分散型労働市場。 | **[Demo](https://yorbee-w5sboubhw6ectnxm7qjxn9.streamlit.app/)** |
 
 ---
 
