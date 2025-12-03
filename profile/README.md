@@ -1,8 +1,9 @@
 # SBCM Alliance
 **Algorithmizing Social Justice.**
 
-[![Zenodo Part1](https://img.shields.io/badge/DOI_Part1-10.5281%2Fzenodo.17762960-blue)](https://doi.org/10.5281/zenodo.17762960)
-[![Zenodo Part2](https://img.shields.io/badge/DOI_Part2-10.5281%2Fzenodo.17777745-blue)](https://doi.org/10.5281/zenodo.17777745)
+[![Zenodo Part1](https://img.shields.io/badge/DOI_Part1-10.5281%2Fzenodo.17766254-blue)](https://doi.org/10.5281/zenodo.17766254)
+[![Zenodo Part2](https://img.shields.io/badge/DOI_Part1-10.5281%2Fzenodo.17766604-blue)](https://doi.org/10.5281/zenodo.17766604)
+[![Zenodo Part3](https://img.shields.io/badge/DOI_Part2-10.5281%2Fzenodo.17777745-blue)](https://doi.org/10.5281/zenodo.17777745)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Status](https://img.shields.io/badge/Status-Alive-success)]()
 [![日本語版](https://img.shields.io/badge/日本語版-こちら-blue)](README_JP.md)
@@ -96,6 +97,7 @@ graph TD
 
 | Project | Type | Description | Status |
 | :--- | :---: | :--- | :---: |
+| **[Pithos](https://github.com/SBCM-Alliance/pithos)** | 🏺 OS | **The Operating System of Logic.**<br>A serverless, browser-based governance tool that runs on a smartphone. It acts as a shelter for logic, equipping citizens with audit, treasury, and banishment capabilities. | **[Live](https://sbcm-alliance.github.io/pithos/)** |
 | **[The Heart](https://github.com/SBCM-Alliance/the-heart)** | 🫀 Core | **Global Liquidity Protocol.**<br>An algorithmic pump that detects state distortion and injects liquidity (Work) into dying blocks. | **[Live](https://sbcm-alliance.github.io/the-heart/)** |
 | **[G-Cart](https://github.com/SBCM-Alliance/g-cart)** | 🏗️ System | **Virtual General Contractor.**<br>Amazon-ifying public procurement to eliminate the "Straw Effect" and force local retention. | **[Demo](https://virtual-general-contractor-55cvcjcffwz9zsns3mge3j.streamlit.app/)** |
 | **[Yorbee](https://github.com/SBCM-Alliance/yorbee)** | ⚔️ Platform | **Job-Deconstruction Skills Guild.**<br>An RPG-style recruitment app that physically rejects exploitative contracts. | **[Demo](https://yorbee-w5sboubhw6ectnxm7qjxn9.streamlit.app/)** |
@@ -105,7 +107,7 @@ graph TD
 ## 🗺️ Roadmap
 
 - [x] **Phase 1: Definition** - Establishment of the SBCM Trilogy (Audit, Economics, Dynamics) and DOI acquisition.
-- [x] **Phase 2: Prototyping** - MVP development of G-Cart, Yorbee, and The Heart simulation.
+- [x] **Phase 2: Prototyping** - MVP development of Pithos, G-Cart, Yorbee, and The Heart simulation.
 - [ ] **Phase 3: Legislation** - Formulation of the "Algorithmic Procurement Ordinance" (Model Ordinance).
 - [ ] **Phase 4: Social Implementation** - Demonstration experiments in National Strategic Special Zones.
 
@@ -134,4 +136,3 @@ Media inquiries, technical questions, and consultation requests are all accepted
 <p align="center">
   <small>© 2025 SBCM Alliance. Powered by <b>Public Interestism</b>.</small>
 </p>
-```
