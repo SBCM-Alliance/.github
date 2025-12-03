@@ -2,8 +2,8 @@
 **Algorithmizing Social Justice.** (社会正義をアルゴリズム化する)
 
 [![Zenodo Part1](https://img.shields.io/badge/DOI_Part1-10.5281%2Fzenodo.17762960-blue)](https://doi.org/10.5281/zenodo.17762960)
-[![Zenodo Part2](https://img.shields.io/badge/DOI_Part1-10.5281%2Fzenodo.17766604-blue)](https://doi.org/10.5281/zenodo.17766604)
-[![Zenodo Part3](https://img.shields.io/badge/DOI_Part2-10.5281%2Fzenodo.17777745-blue)](https://doi.org/10.5281/zenodo.17777745)
+[![Zenodo Part2](https://img.shields.io/badge/DOI_Part2-10.5281%2Fzenodo.17766604-blue)](https://doi.org/10.5281/zenodo.17766604)
+[![Zenodo Part3](https://img.shields.io/badge/DOI_Part3-10.5281%2Fzenodo.17777745-blue)](https://doi.org/10.5281/zenodo.17777745)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Status](https://img.shields.io/badge/Status-Alive-success)]()
 [![English Version](https://img.shields.io/badge/English-Here-blue)](README.md)
