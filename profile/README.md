@@ -2,8 +2,8 @@
 **Algorithmizing Social Justice.**
 
 [![Zenodo Part1](https://img.shields.io/badge/DOI_Part1-10.5281%2Fzenodo.17766254-blue)](https://doi.org/10.5281/zenodo.17766254)
-[![Zenodo Part2](https://img.shields.io/badge/DOI_Part1-10.5281%2Fzenodo.17766604-blue)](https://doi.org/10.5281/zenodo.17766604)
-[![Zenodo Part3](https://img.shields.io/badge/DOI_Part2-10.5281%2Fzenodo.17777745-blue)](https://doi.org/10.5281/zenodo.17777745)
+[![Zenodo Part2](https://img.shields.io/badge/DOI_Part2-10.5281%2Fzenodo.17766604-blue)](https://doi.org/10.5281/zenodo.17766604)
+[![Zenodo Part3](https://img.shields.io/badge/DOI_Part3-10.5281%2Fzenodo.17777745-blue)](https://doi.org/10.5281/zenodo.17777745)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Status](https://img.shields.io/badge/Status-Alive-success)]()
 [![日本語版](https://img.shields.io/badge/日本語版-こちら-blue)](README_JP.md)
