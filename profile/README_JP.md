@@ -2,7 +2,8 @@
 **Algorithmizing Social Justice.** (社会正義をアルゴリズム化する)
 
 [![Zenodo Part1](https://img.shields.io/badge/DOI_Part1-10.5281%2Fzenodo.17762960-blue)](https://doi.org/10.5281/zenodo.17762960)
-[![Zenodo Part2](https://img.shields.io/badge/DOI_Part2-10.5281%2Fzenodo.17777745-blue)](https://doi.org/10.5281/zenodo.17777745)
+[![Zenodo Part2](https://img.shields.io/badge/DOI_Part1-10.5281%2Fzenodo.17766604-blue)](https://doi.org/10.5281/zenodo.17766604)
+[![Zenodo Part3](https://img.shields.io/badge/DOI_Part2-10.5281%2Fzenodo.17777745-blue)](https://doi.org/10.5281/zenodo.17777745)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Status](https://img.shields.io/badge/Status-Alive-success)]()
 [![English Version](https://img.shields.io/badge/English-Here-blue)](README.md)
@@ -97,7 +98,8 @@ graph TD
 
 | Project | Type | Description | Status |
 | :--- | :---: | :--- | :---: |
-| **[The Heart](https://github.com/SBCM-Alliance/the-heart)** | 🫀 Core | **Global Liquidity Protocol.**<br>富の偏在を調整し、瀕死のブロックへ「仕事」として輸血する自律分散ポンプ。 | **[Live](https://sbcm-alliance.github.io/the-heart/)**|
+| **[Pithos](https://github.com/SBCM-Alliance/pithos)** | 🏺 OS | **論理のOS。**<br>スマホのブラウザだけで動作する、サーバーレスの統治ツール。監査(Core)、金庫(Treasurer)、追放(Ostraka)の機能を備え、市民に「権力に対抗する武器」を与える。 | **[Live](https://sbcm-alliance.github.io/pithos/)** |
+| **[The Heart](https://github.com/SBCM-Alliance/the-heart)** | 🫀 Core | **Global Liquidity Protocol.**<br>富の偏在を調整し、瀕死のブロックへ「仕事」として輸血する自律分散ポンプ。 | **[Live](https://sbcm-alliance.github.io/the-heart/)** |
 | **[G-Cart](https://github.com/SBCM-Alliance/g-cart)** | 🏗️ System | **Virtual General Contractor.**<br>公共調達のAmazon。中抜き（ストロー効果）を排除し、地域内循環を強制する。 |  **[Demo](https://virtual-general-contractor-55cvcjcffwz9zsns3mge3j.streamlit.app/)** |
 | **[Yorbee](https://github.com/SBCM-Alliance/yorbee)** | ⚔️ Platform | **Gamified Skill Guild.**<br>職務をスキルに分解し、パーティを組んでクエストを解決する分散型労働市場。 | **[Demo](https://yorbee-w5sboubhw6ectnxm7qjxn9.streamlit.app/)** |
 
@@ -106,7 +108,7 @@ graph TD
 ## 🗺️ Roadmap (ロードマップ)
 
 - [x] **Phase 1: Definition** - SBCM三部作（監査・経済・動態）の確立とDOI取得。
-- [x] **Phase 2: Prototyping** - G-Cart, Yorbee, The Heart のMVP開発と概念実証。
+- [x] **Phase 2: Prototyping** - MVP開発（Pithos, G-Cart, Yorbee, The Heart）。
 - [ ] **Phase 3: Legislation** - 「アルゴリズム調達条例」の策定（モデル条例案）。
 - [ ] **Phase 4: Social Implementation** - 国家戦略特区等での実証実験開始。
 
@@ -114,7 +116,7 @@ graph TD
 
 ## 🤝 Join Us (参画)
 
-私たちは、新しい分野 **「行政フォレンジック (Administrative Forensics)」** の開拓者を求めています。
+私たちは、新しい分野 **「行政鑑識学 (Administrative Forensics)」** の開拓者を求めています。
 
 *   **エンジニアの方:** コードで国をデバッグしたい方。Pull Requestをお待ちしています。
 *   **研究者の方:** メソ経済学を拡張・検証したい方。
@@ -136,4 +138,3 @@ SBCM Alliance は「密室での合意形成」を否定します。
 <p align="center">
   <small>© 2025 SBCM Alliance. Powered by <b>Public Interestism</b>.</small>
 </p>
-```
