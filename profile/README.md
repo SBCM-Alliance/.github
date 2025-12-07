@@ -1,7 +1,7 @@
 # SBCM Alliance
 **Algorithmizing Social Justice.**
 
-[![Zenodo Part1](https://img.shields.io/badge/DOI_Part1-10.5281%2Fzenodo.17766254-blue)](https://doi.org/10.5281/zenodo.17766254)
+[![Zenodo Part1](https://img.shields.io/badge/DOI_Part1-10.5281%2Fzenodo.17762960-blue)](https://doi.org/10.5281/zenodo.17762960)
 [![Zenodo Part2](https://img.shields.io/badge/DOI_Part2-10.5281%2Fzenodo.17766604-blue)](https://doi.org/10.5281/zenodo.17766604)
 [![Zenodo Part3](https://img.shields.io/badge/DOI_Part3-10.5281%2Fzenodo.17777745-blue)](https://doi.org/10.5281/zenodo.17777745)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -31,8 +31,10 @@ We redefine this "plain" as a collection of mathematically sustainable **Standar
 
 To realize this, we decouple public interest from fragile "ethics" and redefine it as **"a physical law automatically enforced by system structure."**
 
-*   **The Old Way:** Relying on "good people" to do politics to make the world better. (Vulnerable to corruption)
-*   **The SBCM Way:** Creating a structure where **even "bad actors" mathematically maximize the public interest.** (Robust & Auditable)
+### **The Worldview**
+By virtually reorganizing the nation into **"Standard Blocks" (approx. 70k population)**, we minimize the leakage of wealth (The Straw Effect) and maximize internal circulation ($R_{block}$).
+
+![SBCM Concept Map](images/sbcm_concept_map.png)
 
 ---
 
@@ -51,65 +53,92 @@ Based on the proprietary Meso-Economic theory **"Standard Block Comparison Metho
 
 SBCM is designed as a "National OS" composed of three theoretical layers: **Space, Flow, and Time.**
 
-### **Part 1: The Static Audit (Space)**
-**[Proposal for SBCM in Administrative Evaluation](https://doi.org/10.5281/zenodo.17762960)**
-*   **Core Logic:** `Budget Distortion Index` ($D_{index}$)
-*   **Function:** Detects "budgetary distortion" by normalizing administrative data with population scale. It automatically flags "Quadrant 4" projects (High Cost / Low Reach).
-
-### **Part 2: The Economic Flow (Circulation)**
-**[SBCM Economics: Meso-Economic Framework](https://doi.org/10.5281/zenodo.17766604)**
-*   **Core Logic:** `Block Retention Rate` ($R_{block}$) / `SBCM Fiscal Multiplier` ($M_{sbcm}$)
-*   **Function:** Maximizes "Wealth Retention" instead of GDP. It mathematically proves that public works with high leakage (Straw Effect) yield zero economic benefit.
-
-### **Part 3: The Dynamic Thermodynamics (Time)**
-**[Dynamic Meso-Economics and the Thermodynamics of Governance](https://doi.org/10.5281/zenodo.17777745)**
-*   **Core Logic:** `Cumulative Distortion Integral` ($\mathcal{D}_{total}$)
-*   **Function:** A "Calculus of Ruin." It proves that in a depopulating society ($P(t) \searrow$), fixing infrastructure costs ($C(t) \nearrow$) causes the burden to diverge to infinity ($\infty$).
-
-$$ \lim_{t \to \infty} \int_{0}^{t} \frac{C(\tau)}{P(\tau)} \, d\tau = \infty $$
+*   **Part 1: The Static Audit (Space)** - `Budget Distortion Index` ($D_{index}$)
+*   **Part 2: The Economic Flow (Circulation)** - `Block Retention Rate` ($R_{block}$)
+*   **Part 3: The Dynamic Thermodynamics (Time)** - `Calculus of Ruin` ($\mathcal{D}_{total}$)
 
 ---
 
-## 🏗️ The Ecosystem (Implementation)
+## 🏗️ The Ecosystem (Grand Unified Theory)
 
-We do not just propose theories; we develop and publish applications to implement them socially. These components form a closed-loop economic system.
+We propose a **"Three-Layer Economic Model"** that integrates Micro, Meso, and Macro economics into a single, autonomic nervous system for society.
 
 ```mermaid
-graph TD
-    %% Definitions
-    Brain["<b>SBCM Trilogy</b><br>(Brain: Audit & Logic)"]
-    Bone["<b>G-Cart</b><br>(Bone: Construction & Structure)"]
-    Blood["<b>Yorbee</b><br>(Blood: Talent & Skills)"]
-    
-    %% The Heart
-    Heart(("<b>The Heart</b><br>Global Liquidity Protocol<br>Circulation Pump"))
-    
-    %% Connections
-    Brain -->|"Control Signal (D_index)"| Heart
-    Bone -->|"Surplus Wealth (Saved)"| Heart
-    Blood -->|"Liquidity (Labor)"| Heart
-    
-    %% Output
-    Heart ==>|"<b>Life Support (Vitality)</b>"| Body["<b>Standard Blocks</b><br>(Japan / World)"]
-    
-    style Heart fill:#ff4b4b,stroke:#333,stroke-width:4px,color:white
+
 ```
 
-| Project | Type | Description | Status |
-| :--- | :---: | :--- | :---: |
-| **[Pithos](https://github.com/SBCM-Alliance/pithos)** | 🏺 OS | **The Operating System of Logic.**<br>A serverless, browser-based governance tool that runs on a smartphone. It acts as a shelter for logic, equipping citizens with audit, treasury, and banishment capabilities. | **[Live](https://sbcm-alliance.github.io/pithos/)** |
-| **[The Heart](https://github.com/SBCM-Alliance/the-heart)** | 🫀 Core | **Global Liquidity Protocol.**<br>An algorithmic pump that detects state distortion and injects liquidity (Work) into dying blocks. | **[Live](https://sbcm-alliance.github.io/the-heart/)** |
-| **[G-Cart](https://github.com/SBCM-Alliance/g-cart)** | 🏗️ System | **Virtual General Contractor.**<br>Amazon-ifying public procurement to eliminate the "Straw Effect" and force local retention. | **[Demo](https://virtual-general-contractor-55cvcjcffwz9zsns3mge3j.streamlit.app/)** |
-| **[Yorbee](https://github.com/SBCM-Alliance/yorbee)** | ⚔️ Platform | **Job-Deconstruction Skills Guild.**<br>An RPG-style recruitment app that physically rejects exploitative contracts. | **[Demo](https://yorbee-w5sboubhw6ectnxm7qjxn9.streamlit.app/)** |
+### 1. Micro-Economy: `SONA` + `Aetos`
+*   **Unit:** Individual / Household (Habitat)
+*   **Physics:** **Egoism (Survival)**
+*   **Function:**
+    *   **SONA (Habitat OS):** Translates thermodynamic data (Water/Power) into "Emotion." It drives human behavior through empathy rather than logic.
+    *   **Aetos (Drone Link):** The physical hands. Delivers resources automatically when SONA detects a shortage.
+
+### 2. Meso-Economy: `SONAM`
+*   **Unit:** Standard Block / Region
+*   **Physics:** **Local Optimization ($R_{block}$)**
+*   **Function:**
+    *   **SONAM (Traffic Control):** Manages the swarm of Aetos drones and coordinates logistics within the block to prevent collision and congestion.
+    *   **G-Cart & Yorbee:** The engine of the block. Matches local needs (Procurement) with local seeds (Labor) to maximize retention.
+
+### 3. Magraph BT
+    %% Layers
+    subgraph Macro ["<b>MACRO: The Heart</b> (Circulation & Correction)"]
+        Heart(("<b>The Heart</b><br>Liquidity Pump"))
+        Pithos["<b>Pithos</b><br>Governance OS"]
+    end
+
+    subgraph Meso ["<b>MESO: SONAM</b> (Coordination & Optimization)"]
+        SONAM["<b>SONAM</b><br>Block Traffic Control"]
+        GCart["<b>G-Cart</b><br>Procurement"]
+        Yorbee["<b>Yorbee</b><br>Labor Guild"]
+    end
+
+    subgraph Micro ["<b>MICRO: SONA</b> (Survival & Desire)"]
+        SONA["<b>SONA</b><br>Habitat Agent"]
+        Aetos["<b>Aetos</b><br>Physical Logistics (Drone)"]
+    end
+
+    %% Connections
+    SONA -->|"Request (Needs)"| SONAM
+    Aetos <-->|"Command / Status"| SONAM
+    
+    SONAM -->|"Optimization Data"| Heart
+    GCart & Yorbee -->|"Economic Activity"| SONAM
+    
+    Heart ==>|"<b>Life Support (Transfusion)</b>"| SONAM
+    SONAM ==>|"<b>Delivery (Service)</b>"| SONA
+
+    style Heart fill:#ff4b4b,stroke:#333,stroke-width:4px,color:white
+    style SONAM fill:#00ffff,stroke:#333,stroke-width:2px,color:black
+    style SONA fill:#fff,stroke:#333,color:blackcro-Economy: `theHeart`
+*   **Unit:** Nation / World
+*   **Physics:** **Global Optimization (Entropy Reduction)**
+*   **Function:**
+    *   **The Heart (Liquidity Protocol):** Monitors inter-block disparity. Pumps surplus wealth from hypertrophied blocks (Predators) to dying blocks (Prey).
+    *   **Pithos (Audit OS):** The immune system. Detects corruption and "Distortion" ($D_{index} > 10$) to reject harmful budget execution.
+
+---
+
+## 💻 Repository Index
+
+| Layer | Project | Description | Status |
+| :--- | :--- | :--- | :---: |
+| **Macro** | **[Pithos](https://github.com/SBCM-Alliance/pithos)** | **The Governance OS.** Serverless audit & voting tool. | **[Live](https://sbcm-alliance.github.io/pithos/)** |
+| **Macro** | **[The Heart](https://github.com/SBCM-Alliance/the-heart)** | **Global Liquidity Protocol.** Wealth circulation pump. | **[Live](https://sbcm-alliance.github.io/the-heart/)** |
+| **Meso** | **[G-Cart](https://github.com/SBCM-Alliance/g-cart)** | **Virtual General Contractor.** Amazon for public procurement. | **[Demo](https://virtual-general-contractor-55cvcjcffwz9zsns3mge3j.streamlit.app/)** |
+| **Meso** | **[Yorbee](https://github.com/SBCM-Alliance/yorbee)** | **Gamified Labor Guild.** Ethical job matching. | **[Demo](https://yorbee-w5sboubhw6ectnxm7qjxn9.streamlit.app/)** |
+| **Micro** | **[SONA-OS](https://github.com/SBCM-Alliance/SONA-OS)** | **Habitat Interface.** AI Agent x Drone Logistics (Aetos). | **[Live](https://sbcm-alliance.github.io/SONA-OS/)** |
 
 ---
 
 ## 🗺️ Roadmap
 
-- [x] **Phase 1: Definition** - Establishment of the SBCM Trilogy (Audit, Economics, Dynamics) and DOI acquisition.
-- [x] **Phase 2: Prototyping** - MVP development of Pithos, G-Cart, Yorbee, and The Heart simulation.
-- [ ] **Phase 3: Legislation** - Formulation of the "Algorithmic Procurement Ordinance" (Model Ordinance).
-- [ ] **Phase 4: Social Implementation** - Demonstration experiments in National Strategic Special Zones.
+- [x] **Phase 1: Definition** - Establishment of the SBCM Trilogy and the "Worldview".
+- [x] **Phase 2: Prototyping** - MVP development of the full stack (Micro/Meso/Macro).
+- [ ] **Phase 3: Integration** - Connecting SONA (AI) with Aetos (Drone Simulation) and The Heart (Payment).
+- [ ] **Phase 4: Legislation** - Formulation of the "Algorithmic Procurement Ordinance".
+- [ ] **Phase 5: Social Implementation** - Demonstration experiments in National Strategic Special Zones.
 
 ---
 
@@ -125,14 +154,13 @@ We are looking for hackers, researchers, and courageous public servants to pione
 The SBCM Alliance rejects "backroom consensus-building."
 As a principle of **Open Governance**, all discussions must be conducted in the public domain.
 
-Media inquiries, technical questions, and consultation requests are all accepted via **GitHub Issues**.
-
 > **We do not use email.** To ensure transparency and "Public Interestism," all communications must be open and auditable.
 
-- **[New Issue](https://github.com/SBCM-Alliance/core-theory/issues/new)** : Submit your inquiries here. (Japanese/English accepted)
-- **[Discussions](https://github.com/SBCM-Alliance/core-theory/discussions)** : For brainstorming and general conversation.
+- **[New Issue](https://github.com/SBCM-Alliance/core-theory/issues/new)** : Submit your inquiries here.
+- **[Discussions](https://github.com/SBCM-Alliance/core-theory/discussions)** : For brainstorming.
 
 ---
 <p align="center">
   <small>© 2025 SBCM Alliance. Powered by <b>Public Interestism</b>.</small>
 </p>
+```
