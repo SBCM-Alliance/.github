@@ -64,24 +64,7 @@ SBCM is designed as a "National OS" composed of three theoretical layers: **Spac
 We propose a **"Three-Layer Economic Model"** that integrates Micro, Meso, and Macro economics into a single, autonomic nervous system for society.
 
 ```mermaid
-
-```
-
-### 1. Micro-Economy: `SONA` + `Aetos`
-*   **Unit:** Individual / Household (Habitat)
-*   **Physics:** **Egoism (Survival)**
-*   **Function:**
-    *   **SONA (Habitat OS):** Translates thermodynamic data (Water/Power) into "Emotion." It drives human behavior through empathy rather than logic.
-    *   **Aetos (Drone Link):** The physical hands. Delivers resources automatically when SONA detects a shortage.
-
-### 2. Meso-Economy: `SONAM`
-*   **Unit:** Standard Block / Region
-*   **Physics:** **Local Optimization ($R_{block}$)**
-*   **Function:**
-    *   **SONAM (Traffic Control):** Manages the swarm of Aetos drones and coordinates logistics within the block to prevent collision and congestion.
-    *   **G-Cart & Yorbee:** The engine of the block. Matches local needs (Procurement) with local seeds (Labor) to maximize retention.
-
-### 3. Magraph BT
+graph BT
     %% Layers
     subgraph Macro ["<b>MACRO: The Heart</b> (Circulation & Correction)"]
         Heart(("<b>The Heart</b><br>Liquidity Pump"))
@@ -111,7 +94,24 @@ We propose a **"Three-Layer Economic Model"** that integrates Micro, Meso, and M
 
     style Heart fill:#ff4b4b,stroke:#333,stroke-width:4px,color:white
     style SONAM fill:#00ffff,stroke:#333,stroke-width:2px,color:black
-    style SONA fill:#fff,stroke:#333,color:blackcro-Economy: `theHeart`
+    style SONA fill:#fff,stroke:#333,color:black
+```
+
+### 1. Micro-Economy: `SONA` + `Aetos`
+*   **Unit:** Individual / Household (Habitat)
+*   **Physics:** **Egoism (Survival)**
+*   **Function:**
+    *   **SONA (Habitat OS):** Translates thermodynamic data (Water/Power) into "Emotion." It drives human behavior through empathy rather than logic.
+    *   **Aetos (Drone Link):** The physical hands. Delivers resources automatically when SONA detects a shortage.
+
+### 2. Meso-Economy: `SONAM`
+*   **Unit:** Standard Block / Region
+*   **Physics:** **Local Optimization ($R_{block}$)**
+*   **Function:**
+    *   **SONAM (Traffic Control):** Manages the swarm of Aetos drones and coordinates logistics within the block to prevent collision and congestion.
+    *   **G-Cart & Yorbee:** The engine of the block. Matches local needs (Procurement) with local seeds (Labor) to maximize retention.
+
+### 3. Macro-Economy: `theHeart`
 *   **Unit:** Nation / World
 *   **Physics:** **Global Optimization (Entropy Reduction)**
 *   **Function:**
