@@ -32,8 +32,10 @@ SBCM Alliance は、**「実装された公益主義 (Implemented Public Interes
 
 これを実現するために、私たちは「公益」を脆い「倫理観」から切り離し、**「システム構造によって自動強制される物理法則」** として再定義します。
 
-*   **旧来の道徳:** 「良い人」が政治を行えば、世の中は良くなるはずだ。（腐敗に脆弱）
-*   **SBCMの道徳:** **「悪人」でさえも、数学的に公益を最大化せざるを得ない構造を作る。**（堅牢かつ監査可能）
+### **The Worldview (世界観)**
+全国を**「標準ブロック（約7万人規模）」**という仮想単位に再編することで、富の漏出（ストロー効果）を最小化し、地域内循環（ $R_{block}$ ）を最大化します。
+
+![SBCM Concept Map](images/sbcm_concept_map.png)
 
 ---
 
@@ -52,65 +54,92 @@ SBCM Alliance は、**「実装された公益主義 (Implemented Public Interes
 
 SBCMは3つの論文によって構成される、「国家OS」の設計図です。
 
-### **Part 1: The Static Audit (現在)**
-**[行政施策の定量的評価における標準ブロック比較法 (SBCM) の提案](https://doi.org/10.5281/zenodo.17762960)**
-*   **Core Logic:** `予算歪み指数` ($D_{index}$)
-*   **機能:** 行政データを人口規模で正規化し、「予算の歪み」を検知する監査論。第4象限（高コスト・低普及）の無駄を自動的にあぶり出す。
-
-### **Part 2: The Economic Flow (空間)**
-**[SBCM経済学：富の定着と循環を最大化するメソ経済フレームワーク](https://doi.org/10.5281/zenodo.17766604)**
-*   **Core Logic:** `ブロック残留率` ($R_{block}$) / `SBCM財政乗数` ($M_{sbcm}$)
-*   **機能:** GDP（総量）ではなく「富の定着」を最大化する経済論。漏出（ストロー効果）の激しい公共事業は、経済効果がゼロであることを数学的に証明する。
-
-### **Part 3: The Dynamic Thermodynamics (未来)**
-**[SBCM経済学 Part 2: 動的メソ経済学と統治の熱力学](https://doi.org/10.5281/zenodo.17777745)**
-*   **Core Logic:** `累積歪み積分` ($\mathcal{D}_{total}$)
-*   **機能:** 「時間の重力」を扱う熱力学。人口減少下 ($P(t) \searrow$) においてインフラコストを固定 ($C(t) \nearrow$) すれば、将来負担は無限大 ($\infty$) に発散し、自治体は物理的に崩壊することを証明する。
-
-$$ \lim_{t \to \infty} \int_{0}^{t} \frac{C(\tau)}{P(\tau)} \, d\tau = \infty $$
+*   **Part 1: The Static Audit (空間)** - `予算歪み指数` ( $D_{index}$ )
+*   **Part 2: The Economic Flow (循環)** - `ブロック残留率` ( $R_{block}$ )
+*   **Part 3: The Dynamic Thermodynamics (時間)** - `破綻の微積分` ( $\mathcal{D}_{total}$ )
 
 ---
 
-## 🏗️ The Ecosystem (実装)
+## 🏗️ The Ecosystem (実装：大統一理論)
 
-理論を現実に適用するためのアプリケーション群です。これらは有機的に結合し、**「The Heart」**を中心とした自律経済圏を形成します。
+ミクロ、メソ、マクロ経済を一つの自律神経系として統合する**「三層経済モデル」**を提案します。
 
 ```mermaid
-graph TD
-    %% Definitions
-    Brain["<b>SBCM Trilogy</b><br>(脳: 監査と論理)"]
-    Bone["<b>G-Cart</b><br>(骨格: 建設と構造)"]
-    Blood["<b>Yorbee</b><br>(血液: 人材とスキル)"]
-    
-    %% The Heart
-    Heart(("<b>The Heart</b><br>Global Liquidity Protocol<br>循環ポンプ"))
-    
+graph BT
+    %% Layers
+    subgraph Macro ["<b>MACRO: The Heart</b> (循環と是正)"]
+        Heart(("<b>The Heart</b><br>Liquidity Pump"))
+        Pithos["<b>Pithos</b><br>Governance OS"]
+    end
+
+    subgraph Meso ["<b>MESO: SONAM</b> (調整と最適化)"]
+        SONAM["<b>SONAM</b><br>Block Traffic Control"]
+        GCart["<b>G-Cart</b><br>Procurement"]
+        Yorbee["<b>Yorbee</b><br>Labor Guild"]
+    end
+
+    subgraph Micro ["<b>MICRO: SONA</b> (生存と欲求)"]
+        SONA["<b>SONA</b><br>Habitat Agent"]
+        Aetos["<b>Aetos</b><br>Physical Logistics (Drone)"]
+    end
+
     %% Connections
-    Brain -->|"制御信号 (D_index)"| Heart
-    Bone -->|"余剰資源 (Saved)"| Heart
-    Blood -->|"流動性 (Labor)"| Heart
+    SONA -->|"リクエスト (欲求)"| SONAM
+    Aetos <-->|"命令 / 状態"| SONAM
     
-    %% Output
-    Heart ==>|"<b>生命維持 (Vitality)</b>"| Body["<b>Standard Blocks</b><br>(日本 / 世界)"]
+    SONAM -->|"最適化データ"| Heart
+    GCart & Yorbee -->|"経済活動"| SONAM
     
+    Heart ==>|"<b>生命維持 (輸血)</b>"| SONAM
+    SONAM ==>|"<b>デリバリー (奉仕)</b>"| SONA
+
     style Heart fill:#ff4b4b,stroke:#333,stroke-width:4px,color:white
+    style SONAM fill:#00ffff,stroke:#333,stroke-width:2px,color:black
+    style SONA fill:#fff,stroke:#333,color:black
 ```
 
-| Project | Type | Description | Status |
-| :--- | :---: | :--- | :---: |
-| **[Pithos](https://github.com/SBCM-Alliance/pithos)** | 🏺 OS | **論理のOS。**<br>スマホのブラウザだけで動作する、サーバーレスの統治ツール。監査(Core)、金庫(Treasurer)、追放(Ostraka)の機能を備え、市民に「権力に対抗する武器」を与える。 | **[Live](https://sbcm-alliance.github.io/pithos/)** |
-| **[The Heart](https://github.com/SBCM-Alliance/the-heart)** | 🫀 Core | **Global Liquidity Protocol.**<br>富の偏在を調整し、瀕死のブロックへ「仕事」として輸血する自律分散ポンプ。 | **[Live](https://sbcm-alliance.github.io/the-heart/)** |
-| **[G-Cart](https://github.com/SBCM-Alliance/g-cart)** | 🏗️ System | **Virtual General Contractor.**<br>公共調達のAmazon。中抜き（ストロー効果）を排除し、地域内循環を強制する。 |  **[Demo](https://virtual-general-contractor-55cvcjcffwz9zsns3mge3j.streamlit.app/)** |
-| **[Yorbee](https://github.com/SBCM-Alliance/yorbee)** | ⚔️ Platform | **Gamified Skill Guild.**<br>職務をスキルに分解し、パーティを組んでクエストを解決する分散型労働市場。 | **[Demo](https://yorbee-w5sboubhw6ectnxm7qjxn9.streamlit.app/)** |
+### 1. ミクロ経済 (Micro): `SONA` + `Aetos`
+*   **単位:** 個人 / 家計 (Habitat)
+*   **物理法則:** **エゴイズム (生存欲求)**
+*   **機能:**
+    *   **SONA (Habitat OS):** 水や電気のデータを「感情」に翻訳する。論理ではなく共感によって人の行動を変容させる。
+    *   **Aetos (Drone Link):** 物理的な手足。SONAが欠乏を検知すると、自動的に物資を空輸する。
+
+### 2. メソ経済 (Meso): `SONAM`
+*   **単位:** 標準ブロック / 地域
+*   **物理法則:** **局所最適化 ($R_{block}$)**
+*   **機能:**
+    *   **SONAM (Traffic Control):** 無数のAetosドローンを管制し、ブロック内の物流を衝突なくコーディネートする。
+    *   **G-Cart & Yorbee:** ブロックのエンジン。地域の需要（調達）と供給（労働）をマッチングさせ、富の定着を最大化する。
+
+### 3. マクロ経済 (Macro): `theHeart`
+*   **単位:** 国家 / 世界
+*   **物理法則:** **全体最適化 (エントロピー減少)**
+*   **機能:**
+    *   **The Heart (Liquidity Protocol):** ブロック間の格差を監視。肥大化したブロック（捕食者）から富を吸い上げ、瀕死のブロック（被食者）へ輸血するポンプ。
+    *   **Pithos (Audit OS):** 免疫システム。腐敗や「歪み ($D_{index} > 10$)」を検知し、有害な予算執行を拒絶する。
+
+---
+
+## 💻 Repository Index (リポジトリ一覧)
+
+| Layer | Project | Description | Status |
+| :--- | :--- | :--- | :---: |
+| **Macro** | **[Pithos](https://github.com/SBCM-Alliance/pithos)** | **論理のOS。** サーバーレスの監査・投票ツール。 | **[Live](https://sbcm-alliance.github.io/pithos/)** |
+| **Macro** | **[The Heart](https://github.com/SBCM-Alliance/the-heart)** | **富の循環ポンプ。** 格差是正プロトコル。 | **[Live](https://sbcm-alliance.github.io/the-heart/)** |
+| **Meso** | **[G-Cart](https://github.com/SBCM-Alliance/g-cart)** | **バーチャル・ゼネコン。** 公共調達のAmazon。 | **[Demo](https://virtual-general-contractor-55cvcjcffwz9zsns3mge3j.streamlit.app/)** |
+| **Meso** | **[Yorbee](https://github.com/SBCM-Alliance/yorbee)** | **スキルギルド。** 中抜きのない労働市場。 | **[Demo](https://yorbee-w5sboubhw6ectnxm7qjxn9.streamlit.app/)** |
+| **Micro** | **[SONA-OS](https://github.com/SBCM-Alliance/SONA-OS)** | **ハビタット接続。** AIエージェント × ドローン物流。 | **[Live](https://sbcm-alliance.github.io/SONA-OS/)** |
 
 ---
 
 ## 🗺️ Roadmap (ロードマップ)
 
-- [x] **Phase 1: Definition** - SBCM三部作（監査・経済・動態）の確立とDOI取得。
-- [x] **Phase 2: Prototyping** - MVP開発（Pithos, G-Cart, Yorbee, The Heart）。
-- [ ] **Phase 3: Legislation** - 「アルゴリズム調達条例」の策定（モデル条例案）。
-- [ ] **Phase 4: Social Implementation** - 国家戦略特区等での実証実験開始。
+- [x] **Phase 1: Definition** - SBCM三部作の確立と「世界観」の定義。
+- [x] **Phase 2: Prototyping** - フルスタック（Micro/Meso/Macro）のMVP開発。
+- [ ] **Phase 3: Integration** - SONA(AI)とAetos(ドローン)、The Heart(決済)の相互接続。
+- [ ] **Phase 4: Legislation** - 「アルゴリズム調達条例」の策定。
+- [ ] **Phase 5: Social Implementation** - 国家戦略特区等での実証実験開始。
 
 ---
 
@@ -119,7 +148,6 @@ graph TD
 私たちは、新しい分野 **「行政鑑識学 (Administrative Forensics)」** の開拓者を求めています。
 
 *   **エンジニアの方:** コードで国をデバッグしたい方。Pull Requestをお待ちしています。
-*   **研究者の方:** メソ経済学を拡張・検証したい方。
 *   **行政・自治体の方:** 「持続可能な自治体」へ脱皮したい首長・職員の方。Issueよりご連絡ください。
 
 ## 🗣️ Discussion & Contact
@@ -127,14 +155,13 @@ graph TD
 SBCM Alliance は「密室での合意形成」を否定します。
 **オープン・ガバナンス** の原則に基づき、すべての議論は公の場で行われます。
 
-取材依頼、技術的な質問、導入相談はすべて **GitHub Issues** にて受け付けています。
-
 > **メールは使用しません。** 透明性と公益性を担保するため、すべてのコミュニケーションは公開され、監査可能である必要があります。
 
-- **[New Issue](https://github.com/SBCM-Alliance/core-theory/issues/new)** : お問い合わせはこちらから。（日本語/英語可）
+- **[New Issue](https://github.com/SBCM-Alliance/core-theory/issues/new)** : お問い合わせはこちらから。
 - **[Discussions](https://github.com/SBCM-Alliance/core-theory/discussions)** : 雑談やブレインストーミングはこちら。
 
 ---
 <p align="center">
   <small>© 2025 SBCM Alliance. Powered by <b>Public Interestism</b>.</small>
 </p>
+```
