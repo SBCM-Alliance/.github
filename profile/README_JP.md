@@ -50,14 +50,14 @@ SBCM Alliance は、**「実装された公益主義 (Implemented Public Interes
 
 ---
 
-## 📚 The SBCM Trilogy (理論体系)
+## 📚 The SBCM Tetralogy (理論体系)
 
-SBCMは3つの論文によって構成される、「国家OS」の設計図です。
+SBCMは4つの論文によって構成される、「国家OS」の設計図です。
 
 *   **Part 1: The Static Audit (空間)** - `予算歪み指数` ( $D_{index}$ )
 *   **Part 2: The Economic Flow (循環)** - `ブロック残留率` ( $R_{block}$ )
 *   **Part 3: The Dynamic Thermodynamics (時間)** - `破綻の微積分` ( $\mathcal{D}_{total}$ )
-
+*   **Part 4: The Unified Field Theory (場)** - `富の連続の式` ( $\nabla \cdot \mathbf{J}$ )
 ---
 
 ## 🏗️ The Ecosystem (実装：大統一理論)
