@@ -49,14 +49,14 @@ Based on the proprietary Meso-Economic theory **"Standard Block Comparison Metho
 
 ---
 
-## 📚 The SBCM Trilogy (Core Theory)
+## 📚 The SBCM Tetralogy (Core Theory)
 
-SBCM is designed as a "National OS" composed of three theoretical layers: **Space, Flow, and Time.**
+SBCM is designed as a "National OS" composed of four theoretical layers: **Space, Flow, Time, and Field.**
 
 *   **Part 1: The Static Audit (Space)** - `Budget Distortion Index` ($D_{index}$)
 *   **Part 2: The Economic Flow (Circulation)** - `Block Retention Rate` ($R_{block}$)
 *   **Part 3: The Dynamic Thermodynamics (Time)** - `Calculus of Ruin` ($\mathcal{D}_{total}$)
-
+*   **Part 4: The Unified Field Theory (Physics)** - `Continuity Equation` ($\nabla \cdot \mathbf{J}$)
 ---
 
 ## 🏗️ The Ecosystem (Grand Unified Theory)
