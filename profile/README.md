@@ -125,12 +125,13 @@ graph BT
 
 | Layer | Project | Description | Status |
 | :--- | :--- | :--- | :---: |
+| **Macro** | **[SBCM Global Scanner](https://github.com/SBCM-Alliance/SBCM-Global-Scanner)** | **3D Infrastructure Auditor.** Visualizes urban efficiency & wealth leakage. | **[Live](https://sbcm-alliance.github.io/SBCM-Global-Scanner/)** |
 | **Macro** | **[Pithos](https://github.com/SBCM-Alliance/pithos)** | **The Governance OS.** Serverless audit & voting tool. | **[Live](https://sbcm-alliance.github.io/pithos/)** |
 | **Macro** | **[The Heart](https://github.com/SBCM-Alliance/the-heart)** | **Global Liquidity Protocol.** Wealth circulation pump. | **[Live](https://sbcm-alliance.github.io/the-heart/)** |
 | **Meso** | **[G-Cart](https://github.com/SBCM-Alliance/g-cart)** | **Virtual General Contractor.** Amazon for public procurement. | **[Demo](https://virtual-general-contractor-55cvcjcffwz9zsns3mge3j.streamlit.app/)** |
 | **Meso** | **[Yorbee](https://github.com/SBCM-Alliance/yorbee)** | **Gamified Labor Guild.** Ethical job matching. | **[Demo](https://yorbee-w5sboubhw6ectnxm7qjxn9.streamlit.app/)** |
 | **Micro** | **[SONA-OS](https://github.com/SBCM-Alliance/SONA-OS)** | **Habitat Interface.** AI Agent x Drone Logistics (Aetos). | **[Live](https://sbcm-alliance.github.io/SONA-OS/)** |
-
+| **Micro** | **[Hungry Sona](https://github.com/SBCM-Alliance/sona-battery-link)** | **Digital Metabolism.** Visualizes energy as AI hunger. | **[Live](https://sbcm-alliance.github.io/sona-battery-link/)** |
 ---
 
 ## 🗺️ Roadmap
