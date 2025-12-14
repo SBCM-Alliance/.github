@@ -122,16 +122,17 @@ graph BT
 
 ---
 
-## 💻 Repository Index (リポジトリ一覧)
+## 💻 Repository Index
 
 | Layer | Project | Description | Status |
 | :--- | :--- | :--- | :---: |
-| **Macro** | **[Pithos](https://github.com/SBCM-Alliance/pithos)** | **論理のOS。** サーバーレスの監査・投票ツール。 | **[Live](https://sbcm-alliance.github.io/pithos/)** |
-| **Macro** | **[The Heart](https://github.com/SBCM-Alliance/the-heart)** | **富の循環ポンプ。** 格差是正プロトコル。 | **[Live](https://sbcm-alliance.github.io/the-heart/)** |
-| **Meso** | **[G-Cart](https://github.com/SBCM-Alliance/g-cart)** | **バーチャル・ゼネコン。** 公共調達のAmazon。 | **[Demo](https://virtual-general-contractor-55cvcjcffwz9zsns3mge3j.streamlit.app/)** |
-| **Meso** | **[Yorbee](https://github.com/SBCM-Alliance/yorbee)** | **スキルギルド。** 中抜きのない労働市場。 | **[Demo](https://yorbee-w5sboubhw6ectnxm7qjxn9.streamlit.app/)** |
-| **Micro** | **[SONA-OS](https://github.com/SBCM-Alliance/SONA-OS)** | **ハビタット接続。** AIエージェント × ドローン物流。 | **[Live](https://sbcm-alliance.github.io/SONA-OS/)** |
-
+| **Macro** | **[SBCM Global Scanner](https://github.com/SBCM-Alliance/SBCM-Global-Scanner)** | **3Dインフラ監査スキャナー。**<br>都市の効率性と「富の流出」をWebGLで可視化。 | **[Live](https://sbcm-alliance.github.io/SBCM-Global-Scanner/)** |
+| **Macro** | **[Pithos](https://github.com/SBCM-Alliance/pithos)** | **統治OS (Governance OS)。**<br>サーバーレスで動作する監査・投票システム。 | **[Live](https://sbcm-alliance.github.io/pithos/)** |
+| **Macro** | **[The Heart](https://github.com/SBCM-Alliance/the-heart)** | **広域流動性プロトコル。**<br>地域間の富の格差を調整する循環ポンプ。 | **[Live](https://sbcm-alliance.github.io/the-heart/)** |
+| **Meso** | **[G-Cart](https://github.com/SBCM-Alliance/g-cart)** | **バーチャル・ゼネコン。**<br>公共調達を分割・最適化する「行政版Amazon」。 | **[Demo](https://virtual-general-contractor-55cvcjcffwz9zsns3mge3j.streamlit.app/)** |
+| **Meso** | **[Yorbee](https://github.com/SBCM-Alliance/yorbee)** | **労働ギルド・プラットフォーム。**<br>地域内のスキルと仕事をマッチング。 | **[Demo](https://yorbee-w5sboubhw6ectnxm7qjxn9.streamlit.app/)** |
+| **Micro** | **[SONA-OS](https://github.com/SBCM-Alliance/SONA-OS)** | **居住区インターフェース。**<br>AIエージェントによる電力管理とドローン物流制御。 | **[Live](https://sbcm-alliance.github.io/SONA-OS/)** |
+| **Micro** | **[Hungry Sona](https://github.com/SBCM-Alliance/sona-battery-link)** | **デジタル代謝実験。**<br>スマホのバッテリー残量をAIの「空腹」に直結させる。 | **[Live](https://sbcm-alliance.github.io/sona-battery-link/)** |
 ---
 
 ## 🗺️ Roadmap (ロードマップ)
