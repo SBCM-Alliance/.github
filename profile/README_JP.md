@@ -126,13 +126,15 @@ graph BT
 
 | Layer | Project | Description | Status |
 | :--- | :--- | :--- | :---: |
-| **Macro** | **[SBCM Global Scanner](https://github.com/SBCM-Alliance/SBCM-Global-Scanner)** | **3Dインフラ監査スキャナー。**<br>都市の効率性と「富の流出」をWebGLで可視化。 | **[Live](https://sbcm-alliance.github.io/SBCM-Global-Scanner/)** |
-| **Macro** | **[Pithos](https://github.com/SBCM-Alliance/pithos)** | **統治OS (Governance OS)。**<br>サーバーレスで動作する監査・投票システム。 | **[Live](https://sbcm-alliance.github.io/pithos/)** |
-| **Macro** | **[The Heart](https://github.com/SBCM-Alliance/the-heart)** | **広域流動性プロトコル。**<br>地域間の富の格差を調整する循環ポンプ。 | **[Live](https://sbcm-alliance.github.io/the-heart/)** |
-| **Meso** | **[G-Cart](https://github.com/SBCM-Alliance/g-cart)** | **バーチャル・ゼネコン。**<br>公共調達を分割・最適化する「行政版Amazon」。 | **[Demo](https://virtual-general-contractor-55cvcjcffwz9zsns3mge3j.streamlit.app/)** |
-| **Meso** | **[Yorbee](https://github.com/SBCM-Alliance/yorbee)** | **労働ギルド・プラットフォーム。**<br>地域内のスキルと仕事をマッチング。 | **[Demo](https://yorbee-w5sboubhw6ectnxm7qjxn9.streamlit.app/)** |
-| **Micro** | **[SONA-OS](https://github.com/SBCM-Alliance/SONA-OS)** | **居住区インターフェース。**<br>AIエージェントによる電力管理とドローン物流制御。 | **[Live](https://sbcm-alliance.github.io/SONA-OS/)** |
-| **Micro** | **[Hungry Sona](https://github.com/SBCM-Alliance/sona-battery-link)** | **デジタル代謝実験。**<br>スマホのバッテリー残量をAIの「空腹」に直結させる。 | **[Live](https://sbcm-alliance.github.io/sona-battery-link/)** |
+| **Macro** | **[SBCM Global Scanner](https://github.com/SBCM-Alliance/SBCM-Global-Scanner)** | **3Dインフラ監査スキャナー。** 都市の投資効率と富の流出を可視化。 | **[稼働中](https://sbcm-alliance.github.io/SBCM-Global-Scanner/)** |
+| **Macro** | **[SBCM Simulator](https://github.com/SBCM-Alliance/SBCM-Simulator)** | **行政水理学エンジン。** 人口減少による財政破綻とG-Cartの最適化効果を予測。 | **[稼働中](https://sbcm-alliance.github.io/SBCM-Simulator/)** |
+| **Macro** | **[Pithos](https://github.com/SBCM-Alliance/pithos)** | **ガバナンスOS。** サーバーレスの監査・投票システム。 | **[稼働中](https://sbcm-alliance.github.io/pithos/)** |
+| **Macro** | **[The Heart](https://github.com/SBCM-Alliance/the-heart)** | **富の循環プロトコル。** 地域間の流動性ポンプ。 | **[稼働中](https://sbcm-alliance.github.io/the-heart/)** |
+| **Meso** | **[G-Cart](https://github.com/SBCM-Alliance/g-cart)** | **バーチャル・ゼネコン。** 公共調達のAmazon。 | **[デモ](https://virtual-general-contractor-55cvcjcffwz9zsns3mge3j.streamlit.app/)** |
+| **Meso** | **[Yorbee](https://github.com/SBCM-Alliance/yorbee)** | **労働ギルド。** エシカルなジョブマッチング基盤。 | **[デモ](https://yorbee-w5sboubhw6ectnxm7qjxn9.streamlit.app/)** |
+| **Micro** | **[SONA-OS](https://github.com/SBCM-Alliance/SONA-OS)** | **居住区画OS。** AIエージェントとドローン物流（Aetos）の統合。 | **[稼働中](https://sbcm-alliance.github.io/SONA-OS/)** |
+| **Micro** | **[Hungry Sona](https://github.com/SBCM-Alliance/sona-battery-link)** | **デジタル代謝実験。** スマホの電力をAIの「空腹」として可視化。 | **[稼働中](https://sbcm-alliance.github.io/sona-battery-link/)** |
+
 ---
 
 ## 🗺️ Roadmap (ロードマップ)
