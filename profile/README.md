@@ -123,6 +123,8 @@ graph BT
 
 | Layer | Project | Description | Status |
 | :--- | :--- | :--- | :---: |
+| **Core** | **[SBCM Core Theory](https://github.com/SBCM-Alliance/core-theory)** | **The Axioms.** Mathematical specification & 5-Part Thesis. | **[Published](https://doi.org/10.5281/zenodo.17762960)** |
+| **Evidence** | **[SBCM Case Studies](https://github.com/SBCM-Alliance/Case-Studies)** | **The Forensics.** Tokyo Black Hole audit & raw data. | **[Active](https://github.com/SBCM-Alliance/Case-Studies)** |
 | **Macro** | **[SBCM Global Scanner](https://github.com/SBCM-Alliance/SBCM-Global-Scanner)** | **3D Infrastructure Auditor.** Visualizes urban efficiency & wealth leakage. | **[Live](https://sbcm-alliance.github.io/SBCM-Global-Scanner/)** |
 | **Macro** | **[SBCM Simulator](https://github.com/SBCM-Alliance/SBCM-Simulator)** | **Administrative Hydraulics Engine.** Simulates fiscal collapse & G-Cart optimization. | **[Live](https://sbcm-alliance.github.io/SBCM-Simulator/)** |
 | **Macro** | **[Pithos](https://github.com/SBCM-Alliance/pithos)** | **The Governance OS.** Serverless audit & voting tool. | **[Live](https://sbcm-alliance.github.io/pithos/)** |
