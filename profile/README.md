@@ -35,8 +35,6 @@ To realize this, we decouple public interest from fragile "ethics" and redefine 
 ### **The Worldview**
 By virtually reorganizing the nation into **"Standard Blocks" (approx. 70k population)**, we minimize the leakage of wealth (The Straw Effect) and maximize internal circulation ($R_{block}$).
 
-![SBCM Concept Map](images/sbcm_concept_map.png)
-
 ---
 
 ## 📜 Mission
