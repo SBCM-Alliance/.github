@@ -159,7 +159,7 @@ As a principle of **Open Governance**, all discussions must be conducted in the 
 > **We do not use email.** To ensure transparency and "Public Interestism," all communications must be open and auditable.
 
 - **[New Issue](https://github.com/SBCM-Alliance/core-theory/issues/new)** : Submit your inquiries here.
-- **[Discussions](https://github.com/SBCM-Alliance/core-theory/discussions)** : For brainstorming.
+- **[Discussions](https://github.com/orgs/SBCM-Alliance/discussions)** : For brainstorming.
 
 ---
 <p align="center">
