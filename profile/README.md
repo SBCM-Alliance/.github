@@ -48,14 +48,20 @@ Based on the proprietary Meso-Economic theory **"Standard Block Comparison Metho
 
 ---
 
-## 📚 The SBCM Tetralogy (Core Theory)
+## 📚 The SBCM Core Theory
 
-SBCM is designed as a "National OS" composed of four theoretical layers: **Space, Flow, Time, and Field.**
+### 📐 The Governing Axioms (SBCM v2.0)
 
-*   **Part 1: The Static Audit (Space)** - `Budget Distortion Index` ($D_{index}$)
-*   **Part 2: The Economic Flow (Circulation)** - `Block Retention Rate` ($R_{block}$)
-*   **Part 3: The Dynamic Thermodynamics (Time)** - `Calculus of Ruin` ($\mathcal{D}_{total}$)
-*   **Part 4: The Unified Field Theory (Physics)** - `Continuity Equation` ($\nabla \cdot \mathbf{J}$)
+   ![](https://github.com/SBCM-Alliance/core-theory/blob/main/Axiom.png)
+
+---
+
+## 📜 The Main Paper
+
+### **[The General Theory of Governance Engineering (v2.0)](https://doi.org/10.5281/zenodo.18427082)**
+*   **DOI:** [10.5281/zenodo.18427082](https://doi.org/10.5281/zenodo.18427082) 
+*   **Abstract:** Applying Landauer’s Principle to governance. We provide empirical proof that the centralized "Tokyo System" has reached its "Heat Death" and propose the G-Cart protocol as a sustainable alternative.
+
 ---
 
 ## 🏗️ The Ecosystem (Grand Unified Theory)
